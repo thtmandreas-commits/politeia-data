@@ -1,0 +1,163 @@
+{
+  "lookback_hours": 72,
+  "countries": {
+    "usa": [
+      {
+        "name": "U.S. Bureau of Labor Statistics",
+        "url": "https://www.bls.gov/feed/bls_latest.rss",
+        "country_keywords": ["United States", "U.S.", "USA", "American"]
+      },
+      {
+        "name": "U.S. Federal Reserve",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "country_keywords": ["United States", "U.S.", "USA", "American"]
+      },
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["United States", "U.S.", "USA", "American"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["United States", "U.S.", "USA", "American"]
+      }
+    ],
+    "germany": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["Germany", "German"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["Germany", "German"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["Germany", "German"]
+      }
+    ],
+    "india": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["India", "Indian"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["India", "Indian"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["India", "Indian"]
+      }
+    ],
+    "japan": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["Japan", "Japanese"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["Japan", "Japanese"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["Japan", "Japanese"]
+      }
+    ],
+    "uk": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["United Kingdom", "U.K.", "UK", "Britain", "British"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["United Kingdom", "U.K.", "UK", "Britain", "British"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["United Kingdom", "U.K.", "UK", "Britain", "British"]
+      }
+    ],
+    "france": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["France", "French"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["France", "French"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["France", "French"]
+      }
+    ],
+    "italy": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["Italy", "Italian"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["Italy", "Italian"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["Italy", "Italian"]
+      }
+    ],
+    "southkorea": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["South Korea", "Republic of Korea", "Korean"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["South Korea", "Republic of Korea", "Korean"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["South Korea", "Republic of Korea", "Korean"]
+      }
+    ],
+    "brazil": [
+      {
+        "name": "OECD Newsroom",
+        "url": "https://www.oecd.org/newsroom/rss.xml",
+        "country_keywords": ["Brazil", "Brazilian"]
+      },
+      {
+        "name": "World Bank News",
+        "url": "https://www.worldbank.org/en/news/all?output=rss",
+        "country_keywords": ["Brazil", "Brazilian"]
+      },
+      {
+        "name": "IMF News",
+        "url": "https://www.imf.org/en/News/RSS",
+        "country_keywords": ["Brazil", "Brazilian"]
+      }
+    ]
+  }
+}

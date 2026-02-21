@@ -1,0 +1,12 @@
+{
+  "Economy": ["gdp", "inflation", "employment", "exports", "imports", "retail", "cpi", "ppi", "manufacturing"],
+  "Health": ["health", "hospital", "vaccine", "immunization", "life expectancy", "public health"],
+  "Science": ["research", "scientific", "study", "innovation", "laboratory", "breakthrough"],
+  "Education": ["education", "school", "literacy", "students", "university", "learning"],
+  "Infrastructure": ["rail", "road", "bridge", "transport", "transit", "construction", "broadband"],
+  "Environment": ["emissions", "climate", "recycling", "air quality", "water quality", "conservation"],
+  "Technology": ["technology", "digital", "ai", "semiconductor", "software", "internet"],
+  "Public Safety": ["safety", "crime rate", "resilience", "emergency preparedness", "accident rate"],
+  "Energy": ["energy", "electricity", "renewable", "solar", "wind", "power grid", "battery"],
+  "Civic": ["policy", "approval", "program", "public service", "governance", "regulation"]
+}
