@@ -5,6 +5,8 @@ Static JSON endpoint and daily pipeline for Daily Better News.
 ## Published paths
 - `https://<github-username>.github.io/politeia-data/notallbad/usa.json`
 - `https://data.politeiaproject.org/notallbad/usa.json` (after Pages custom domain + DNS CNAME)
+- `https://data.politeiaproject.org/support/`
+- `https://data.politeiaproject.org/privacy/`
 
 ## Repository layout
 - `notallbad/*.json`: country payloads consumed by the app
