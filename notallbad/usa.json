@@ -1,16 +1,6 @@
 {
   "country": "USA",
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T05:07:44Z",
-  "items": [
-    {
-      "category": "Civic",
-      "headline": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. an...",
-      "context": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "metric": "official approval milestone",
-      "source": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
-      "source_name": "U.S. Federal Reserve",
-      "timestamp": "2026-08-04T20:30:00Z"
-    }
-  ]
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T04:31:56Z",
+  "items": []
 }
